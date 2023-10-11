@@ -1,0 +1,53 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		INJECTED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml:4:5-23:19
+INJECTED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml:4:5-23:19
+	android:extractNativeLibs
+		INJECTED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml
+	android:label
+		ADDED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml:7:9-41
+	android:icon
+		ADDED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml:6:9-45
+	android:allowBackup
+		ADDED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml:8:9-40
+activity#course.labs.activitylab.ActivityOne
+ADDED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml:9:9-18:20
+	android:label
+		ADDED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml:11:13-45
+	android:exported
+		ADDED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml:10:13-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml:16:27-74
+activity#course.labs.activitylab.ActivityTwo
+ADDED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml:19:9-22:20
+	android:label
+		ADDED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml:21:13-64
+	android:name
+		ADDED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml:20:13-40
+uses-sdk
+INJECTED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml
+INJECTED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\AndroidManifest.xml

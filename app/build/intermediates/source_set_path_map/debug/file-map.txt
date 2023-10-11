@@ -1,0 +1,7 @@
+course.labs.activitylab.app-pngs-0 C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\build\generated\res\pngs\debug
+course.labs.activitylab.app-resValues-1 C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\build\generated\res\resValues\debug
+course.labs.activitylab.app-mergeDebugResources-2 C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+course.labs.activitylab.app-mergeDebugResources-3 C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+course.labs.activitylab.app-merged_res-4 C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\build\intermediates\merged_res\debug
+course.labs.activitylab.app-debug-5 C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\debug\res
+course.labs.activitylab.app-main-6 C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\src\main\res

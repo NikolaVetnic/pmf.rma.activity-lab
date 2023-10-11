@@ -1,0 +1,99 @@
+INSTRUMENTATION_STATUS: class=course.labs.activitylab.tests.Test1_StartActivityOneTest
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=6
+INSTRUMENTATION_STATUS: stream=
+course.labs.activitylab.tests.Test1_StartActivityOneTest:
+INSTRUMENTATION_STATUS: test=testRun
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=course.labs.activitylab.tests.Test1_StartActivityOneTest
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=6
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=testRun
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=course.labs.activitylab.tests.Test2_DoubleRotateActivityOneTest
+INSTRUMENTATION_STATUS: current=2
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=6
+INSTRUMENTATION_STATUS: stream=
+course.labs.activitylab.tests.Test2_DoubleRotateActivityOneTest:
+INSTRUMENTATION_STATUS: test=testDoubleRotation
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=course.labs.activitylab.tests.Test2_DoubleRotateActivityOneTest
+INSTRUMENTATION_STATUS: current=2
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=6
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=testDoubleRotation
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=course.labs.activitylab.tests.Test3_StartActivityTwoTest
+INSTRUMENTATION_STATUS: current=3
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=6
+INSTRUMENTATION_STATUS: stream=
+course.labs.activitylab.tests.Test3_StartActivityTwoTest:
+INSTRUMENTATION_STATUS: test=testStartActivityTwo
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=course.labs.activitylab.tests.Test3_StartActivityTwoTest
+INSTRUMENTATION_STATUS: current=3
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=6
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=testStartActivityTwo
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=course.labs.activitylab.tests.Test4_DoubleRotateActivityTwoTest
+INSTRUMENTATION_STATUS: current=4
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=6
+INSTRUMENTATION_STATUS: stream=
+course.labs.activitylab.tests.Test4_DoubleRotateActivityTwoTest:
+INSTRUMENTATION_STATUS: test=testDoubleRotateActivityTwo
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=course.labs.activitylab.tests.Test4_DoubleRotateActivityTwoTest
+INSTRUMENTATION_STATUS: current=4
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=6
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=testDoubleRotateActivityTwo
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=course.labs.activitylab.tests.Test5_CloseActivityTwoTest
+INSTRUMENTATION_STATUS: current=5
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=6
+INSTRUMENTATION_STATUS: stream=
+course.labs.activitylab.tests.Test5_CloseActivityTwoTest:
+INSTRUMENTATION_STATUS: test=testCloseActivityTwo
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=course.labs.activitylab.tests.Test5_CloseActivityTwoTest
+INSTRUMENTATION_STATUS: current=5
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=6
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=testCloseActivityTwo
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=course.labs.activitylab.tests.Test6_ReopenActivityTwoTest
+INSTRUMENTATION_STATUS: current=6
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=6
+INSTRUMENTATION_STATUS: stream=
+course.labs.activitylab.tests.Test6_ReopenActivityTwoTest:
+INSTRUMENTATION_STATUS: test=testReopenActivityTwo
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=course.labs.activitylab.tests.Test6_ReopenActivityTwoTest
+INSTRUMENTATION_STATUS: current=6
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=6
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=testReopenActivityTwo
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_RESULT: stream=
+
+Time: 49.504
+
+OK (6 tests)
+
+
+INSTRUMENTATION_CODE: -1
+

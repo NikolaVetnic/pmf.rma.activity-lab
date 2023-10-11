@@ -1,0 +1,4 @@
+course.labs.activitylab.test.app-androidTest-0 C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\build\generated\res\resValues\androidTest\debug
+course.labs.activitylab.test.app-mergeDebugAndroidTestResources-1 C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+course.labs.activitylab.test.app-mergeDebugAndroidTestResources-2 C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+course.labs.activitylab.test.app-merged_res-3 C:\Offline\PMF\RMA\Projekti\02_ActivityLab_Init\app\build\intermediates\merged_res\debugAndroidTest

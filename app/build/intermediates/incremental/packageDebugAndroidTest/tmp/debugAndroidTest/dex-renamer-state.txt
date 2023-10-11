@@ -1,0 +1,4 @@
+#Wed Oct 11 23:42:10 CEST 2023
+base.0=C\:\\Offline\\PMF\\RMA\\Projekti\\02_ActivityLab_Init\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

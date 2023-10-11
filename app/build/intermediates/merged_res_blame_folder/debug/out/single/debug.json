@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "course.labs.activitylab.app-merged_res-4:/layout_activity_one.xml.flat",
+        "source": "course.labs.activitylab.app-main-6:/layout/activity_one.xml"
+    },
+    {
+        "merged": "course.labs.activitylab.app-merged_res-4:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "course.labs.activitylab.app-main-6:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "course.labs.activitylab.app-merged_res-4:/layout_activity_two.xml.flat",
+        "source": "course.labs.activitylab.app-main-6:/layout/activity_two.xml"
+    },
+    {
+        "merged": "course.labs.activitylab.app-merged_res-4:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "course.labs.activitylab.app-main-6:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "course.labs.activitylab.app-merged_res-4:/drawable-ldpi_ic_launcher.png.flat",
+        "source": "course.labs.activitylab.app-main-6:/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "course.labs.activitylab.app-merged_res-4:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "course.labs.activitylab.app-main-6:/drawable-hdpi/ic_launcher.png"
+    }
+]

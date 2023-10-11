@@ -1,0 +1,328 @@
+# 2023-10-11T21:43:53.613Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 6
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "Test1_StartActivityOneTest"
+    test_package: "course.labs.activitylab.tests"
+    test_method: "testRun"
+    start_time {
+      seconds: 1697060582
+      nanos: 896000000
+    }
+    end_time {
+      seconds: 1697060588
+      nanos: 811000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Offline\\PMF\\RMA\\Projekti\\02_ActivityLab_Init\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_3_API_34(AVD) - 14\\logcat-course.labs.activitylab.tests.Test1_StartActivityOneTest-testRun.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Offline\\PMF\\RMA\\Projekti\\02_ActivityLab_Init\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_3_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Offline\\PMF\\RMA\\Projekti\\02_ActivityLab_Init\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_3_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Offline\\PMF\\RMA\\Projekti\\02_ActivityLab_Init\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_3_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "Test2_DoubleRotateActivityOneTest"
+    test_package: "course.labs.activitylab.tests"
+    test_method: "testDoubleRotation"
+    start_time {
+      seconds: 1697060588
+      nanos: 829000000
+    }
+    end_time {
+      seconds: 1697060598
+      nanos: 784000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Offline\\PMF\\RMA\\Projekti\\02_ActivityLab_Init\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_3_API_34(AVD) - 14\\logcat-course.labs.activitylab.tests.Test2_DoubleRotateActivityOneTest-testDoubleRotation.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Offline\\PMF\\RMA\\Projekti\\02_ActivityLab_Init\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_3_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Offline\\PMF\\RMA\\Projekti\\02_ActivityLab_Init\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_3_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Offline\\PMF\\RMA\\Projekti\\02_ActivityLab_Init\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_3_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "Test3_StartActivityTwoTest"
+    test_package: "course.labs.activitylab.tests"
+    test_method: "testStartActivityTwo"
+    start_time {
+      seconds: 1697060598
+      nanos: 813000000
+    }
+    end_time {
+      seconds: 1697060606
+      nanos: 151000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Offline\\PMF\\RMA\\Projekti\\02_ActivityLab_Init\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_3_API_34(AVD) - 14\\logcat-course.labs.activitylab.tests.Test3_StartActivityTwoTest-testStartActivityTwo.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Offline\\PMF\\RMA\\Projekti\\02_ActivityLab_Init\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_3_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Offline\\PMF\\RMA\\Projekti\\02_ActivityLab_Init\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_3_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Offline\\PMF\\RMA\\Projekti\\02_ActivityLab_Init\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_3_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "Test4_DoubleRotateActivityTwoTest"
+    test_package: "course.labs.activitylab.tests"
+    test_method: "testDoubleRotateActivityTwo"
+    start_time {
+      seconds: 1697060606
+      nanos: 165000000
+    }
+    end_time {
+      seconds: 1697060614
+      nanos: 294000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Offline\\PMF\\RMA\\Projekti\\02_ActivityLab_Init\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_3_API_34(AVD) - 14\\logcat-course.labs.activitylab.tests.Test4_DoubleRotateActivityTwoTest-testDoubleRotateActivityTwo.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Offline\\PMF\\RMA\\Projekti\\02_ActivityLab_Init\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_3_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Offline\\PMF\\RMA\\Projekti\\02_ActivityLab_Init\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_3_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Offline\\PMF\\RMA\\Projekti\\02_ActivityLab_Init\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_3_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "Test5_CloseActivityTwoTest"
+    test_package: "course.labs.activitylab.tests"
+    test_method: "testCloseActivityTwo"
+    start_time {
+      seconds: 1697060614
+      nanos: 298000000
+    }
+    end_time {
+      seconds: 1697060622
+      nanos: 771000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Offline\\PMF\\RMA\\Projekti\\02_ActivityLab_Init\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_3_API_34(AVD) - 14\\logcat-course.labs.activitylab.tests.Test5_CloseActivityTwoTest-testCloseActivityTwo.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Offline\\PMF\\RMA\\Projekti\\02_ActivityLab_Init\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_3_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Offline\\PMF\\RMA\\Projekti\\02_ActivityLab_Init\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_3_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Offline\\PMF\\RMA\\Projekti\\02_ActivityLab_Init\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_3_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "Test6_ReopenActivityTwoTest"
+    test_package: "course.labs.activitylab.tests"
+    test_method: "testReopenActivityTwo"
+    start_time {
+      seconds: 1697060622
+      nanos: 776000000
+    }
+    end_time {
+      seconds: 1697060632
+      nanos: 362000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Offline\\PMF\\RMA\\Projekti\\02_ActivityLab_Init\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_3_API_34(AVD) - 14\\logcat-course.labs.activitylab.tests.Test6_ReopenActivityTwoTest-testReopenActivityTwo.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Offline\\PMF\\RMA\\Projekti\\02_ActivityLab_Init\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_3_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Offline\\PMF\\RMA\\Projekti\\02_ActivityLab_Init\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_3_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Offline\\PMF\\RMA\\Projekti\\02_ActivityLab_Init\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_3_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "C:\\Offline\\PMF\\RMA\\Projekti\\02_ActivityLab_Init\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_3_API_34(AVD) - 14\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}
