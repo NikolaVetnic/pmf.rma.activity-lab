@@ -1,6 +1,6 @@
 # Razvoj mobilnih aplikacija, *Activity Lab*
 
-Repozitorijum sa projektom sa drugog časa prakticnih vežbi iz predmeta Razvoj mobilnih aplikacija.
+Repozitorijum sa projektom sa drugog časa praktičnih vežbi iz predmeta Razvoj mobilnih aplikacija.
 
 Cilj ovih vežbi je upoznavanje sa pojmom *Android Activity Lifecycle*-a, kao i bolje razumevanje načina na koji se Android nosi sa rekonfiguracijom u konjukciji sa životnim ciklusom aktivnosti.
 # 1 Aplikacija *ActivityLab*
